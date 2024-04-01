@@ -3,6 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
+<<<<<<< HEAD
             "activePatchIndex": 2,
             "patches": [
                 {
@@ -19,6 +20,16 @@
                 }
             ],
             "date": 1711945896921,
+=======
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1711946772137,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1711946772137,
+>>>>>>> branch-01
             "name": "Commit-0",
             "content": "# test-git\r\n测试git命令\r\n[\r\n  branch-01\r\n]"
         }
